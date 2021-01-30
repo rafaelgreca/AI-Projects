@@ -1,3 +1,3 @@
-Best score so far: 15931.942
+Best score so far: 15245.2429
 
-Using XGBoost with GridSearchCV.
+Using LightGBM with Optuna for hyperparameters tuning.
